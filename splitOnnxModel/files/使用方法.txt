@@ -1,0 +1,1 @@
+工具及使用方式：splitOnnxModel.exe --modelName model_sim --modelPath Dnextvpuproductcompiler-v3_orioutputtestNDS_Regression_20231017modifyn16xonnxDBNet_r50dcnpcmodel --modelInputName input --bottomName Conv_1 --topName Resize_319 --outputTypes float32 --outputShapes 1,3,1024,1248
